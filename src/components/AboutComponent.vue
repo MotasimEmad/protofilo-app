@@ -39,8 +39,8 @@
                 </div>
             </div>
             <div class="hidden lg:block lg:w-1/2 ml-24">
-                <img class="h-72 w-72 rounded-full object-cover object-center animate-pulse"
-                    src="../assets/images/sp2.jpg" />
+                <img class="h-72 w-72 rounded-full object-cover object-center"
+                    src="../assets/images/spa_2.jpg" />
             </div>
         </div>
     </section>
