@@ -1,6 +1,6 @@
 <template>
    <section class="flex flex-col py-8 px-8 md:py-12 md:px-12 lg:py-24 lg:px-14 bg-gray-200 text-center">
-        <h1 class="mt-4 text-lg md:text-xl lg:text-3xl text-gray-800 font-bold uppercase">Projects</h1>
+        <h1 class="mt-4 text-lg md:text-xl lg:text-3xl text-gray-800 font-bold uppercase">Side - Projects</h1>
         <div class="flex flex-col">
             <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="flex flex-col">
