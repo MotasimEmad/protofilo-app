@@ -5,7 +5,7 @@
             <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="flex flex-col">
                     <div class="overflow-hidden shadow-md rounded-lg w-full h-56">
-                        <img src="../assets/images/projects/screencapture-127-0-0-1-8000-index-2021-12-01-13_34_26.png" class="">
+                        <img src="../assets/images/projects/movies.png" class="">
                     </div>
                 </div>
     
