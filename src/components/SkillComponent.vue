@@ -127,6 +127,23 @@
                 <div class="relative pt-1">
                     <div class="overflow-hidden h-2 text-xs flex rounded bg-purple-200">
                       <div
+                        style="width: 70%"
+                        class="
+                          shadow-none
+                          flex flex-col
+                          text-center
+                          whitespace-nowrap
+                          text-white
+                          justify-center
+                          bg-indigo-500"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex flex-col">
+                <img src="../assets/images/svg/postman-seeklogo.svg" class="w-20 h-16 md:w-28 md:h-20 lg:w-44 lg:h-24">
+                <div class="relative pt-1">
+                    <div class="overflow-hidden h-2 text-xs flex rounded bg-purple-200">
+                      <div
                         style="width: 60%"
                         class="
                           shadow-none
