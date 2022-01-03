@@ -14,7 +14,7 @@
             </div>
             <div class="ml-2 bg-white shadow-md rounded-lg py-4 px-6 w-full h-48 lg:h-72 transform hover:-translate-y-1 hover:scale-110">
                 <a href="https://vuejs.org">
-                    <img src="../assets/images/svg/vuejs-seeklogo.com.svg" class="mx-auto w-28 h-28 lg:w-36 lg:h-36 mt-6 lg:mt-12">
+                    <img src="../assets/images/svg/vuejs.svg" class="mx-auto w-28 h-28 lg:w-36 lg:h-36 mt-6 lg:mt-12">
                 </a>
             </div>
         </div>

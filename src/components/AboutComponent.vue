@@ -29,7 +29,7 @@
                     </div> , 
                     <p class="text-gray-200 font-semibold text-base lg:text-lg inline">designed and developed web applications across multiple APIs thired-party intergration's and databases.</p>
                 <div class="flex items-center mt-6">
-                    <a class="bg-gray-800 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-700 hover:text-gray-200" href="/motasim-resum.pdf" download>
+                    <a class="bg-gray-800 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-700 hover:text-gray-200" href="motasim_resume.pdf" download>
                         <span>Discover CV</span>
 
                         <svg xmlns="http://www.w3.org/2000/svg" class="ml-3 h-6 w-6 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">

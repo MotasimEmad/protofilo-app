@@ -123,7 +123,7 @@
                 </div>
             </div>
             <div class="flex flex-col">
-                <img src="../assets/images/svg/vuejs-seeklogo.com.svg" class="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24">
+                <img src="../assets/images/svg/vuejs.svg" class="w-16 h-16 md:w-20 md:h-20 lg:w-24 lg:h-24">
                 <div class="relative pt-1">
                     <div class="overflow-hidden h-2 text-xs flex rounded bg-purple-200">
                       <div
@@ -140,7 +140,7 @@
                 </div>
             </div>
             <div class="flex flex-col">
-                <img src="../assets/images/svg/postman-seeklogo.svg" class="w-20 h-16 md:w-28 md:h-20 lg:w-44 lg:h-24">
+                <img src="../assets/images/svg/postman.svg" class="w-20 h-16 md:w-28 md:h-20 lg:w-44 lg:h-24">
                 <div class="relative pt-1">
                     <div class="overflow-hidden h-2 text-xs flex rounded bg-purple-200">
                       <div
