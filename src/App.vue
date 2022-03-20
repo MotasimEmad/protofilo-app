@@ -1,8 +1,8 @@
 <template>
-  <div id="app">
+  <div id="app" class="font-Quicksand">
     <header-component></header-component>
     <about-component></about-component>
-    <use-component></use-component>
+    <service-component></service-component>
     <skill-component></skill-component>
     <project-component></project-component>
     <footer-component></footer-component>
@@ -12,7 +12,7 @@
 <script>
 import HeaderComponent from './components/HeaderComponent.vue'
 import AboutComponent from './components/AboutComponent.vue'
-import UseComponent from './components/UseComponent.vue'
+import ServiceComponent from './components/ServiceComponent.vue'
 import SkillComponent from './components/SkillComponent.vue'
 import ProjectComponent from './components/ProjectComponent.vue'
 import FooterComponent from './components/FooterComponent.vue'
@@ -22,7 +22,7 @@ export default {
   components: {
     HeaderComponent,
     AboutComponent,
-    UseComponent,
+    ServiceComponent,
     SkillComponent,
     ProjectComponent,
     FooterComponent
@@ -31,6 +31,7 @@ export default {
 </script>
 
 <style>
-  @import "assets/css/header-animation.css";
+  @import "assets/css/style.css";
+  @import "assets/css/text-animation.css";
 </style>
 

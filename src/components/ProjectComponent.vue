@@ -5,7 +5,7 @@
     <h1
       class="mt-4 text-lg md:text-xl lg:text-3xl text-gray-800 font-bold uppercase"
     >
-      Side - Projects
+      Portfolio 
     </h1>
 
     <div class="flex flex-col">
@@ -18,7 +18,7 @@
             <div class="text flex flex-col">
               <p>
                 Movies app. show you Popular, Playing Now & Top Rated Movies and
-                Series. Build with Vue JS.
+                Series. Build with <span class="font-bold">Vue JS.</span>
               </p>
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
@@ -41,7 +41,7 @@
             <div class="text flex flex-col">
               <p>
                 Website design for sudev developers community. Build with
-                TailwindCss.
+                <span class="font-bold">TailwindCss.</span>
               </p>
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
@@ -62,7 +62,7 @@
           </div>
           <div class="overlay">
             <div class="text flex flex-col">
-              <p>Website design for Creative people. Build with TailwindCss.</p>
+              <p>Website design for Creative people. Build with <span class="font-bold">TailwindCss.</span></p>
             </div>
           </div>
         </div>
@@ -76,7 +76,7 @@
           </div>
           <div class="overlay">
             <div class="text flex flex-col">
-              <p>Web developer protofilo template. Build with TailwindCss</p>
+              <p>Web developer protofilo template. Build with <span class="font-bold">TailwindCss.</span></p>
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
                 href="https://protofilo-template.herokuapp.com"
@@ -96,7 +96,7 @@
           </div>
           <div class="overlay">
             <div class="text flex flex-col">
-              <p>Marsol dashboard for mobile application build with Laravel.</p>
+              <p>Marsol dashboard for mobile application build with <span class="font-bold">Laravel.</span></p>
             </div>
           </div>
         </div>
@@ -110,7 +110,7 @@
           </div>
           <div class="overlay">
             <div class="text flex flex-col">
-              <p>Bird app to manage your tasks. Build with Laravel.</p>
+              <p>Bird app to manage your tasks. Build with <span class="font-bold">Laravel.</span></p>
             </div>
           </div>
         </div>

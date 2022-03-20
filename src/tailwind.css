@@ -1,17 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Ubuntu:wght@300&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 12px;
   }
   ::-webkit-scrollbar-track{
-    background: #808080;
+    border-radius: 10px;
   }
   ::-webkit-scrollbar-thumb{
-    background: #2F4F4F;
+    background: #c2c2c2;
+    border-radius: 10px;
   }
   ::-webkit-scrollbar-thumb:hover{
-    background: #2F4F4F;
+    background: #5049d6;
   }
