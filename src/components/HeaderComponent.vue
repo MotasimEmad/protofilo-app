@@ -1,5 +1,5 @@
 <template>
-    <section class="wrapper min-h-screen bg-gray-800">
+    <section class="wrapper h-96 md:min-h-screen bg-gray-800">
         <header class="border-t-4 border-indigo-600">
             <div class="container mx-auto px-6 py-4">
                 <div class="flex items-center justify-between">
