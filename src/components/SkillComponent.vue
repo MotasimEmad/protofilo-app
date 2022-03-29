@@ -1,5 +1,5 @@
 <template>
- <section class="flex flex-col pt-4 px-8 md:py-12 md:px-12 lg:py-24 lg:px-14 bg-gray-100">
+ <section class="flex flex-col py-4 px-8 md:py-12 md:px-12 lg:py-24 lg:px-14 bg-gray-100">
         <h1 class="mt-4 text-lg md:text-xl lg:text-3xl text-gray-800 font-bold uppercase">Skills</h1>
         <div class="mt-10 grid grid-cols-3 gap-8">
             <div class="flex flex-col">
