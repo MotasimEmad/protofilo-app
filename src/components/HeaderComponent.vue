@@ -19,7 +19,7 @@
                             </svg>
                         </a>
 
-                        <a class="flex items-center mx-2 text-gray-200 hover:text-indigo-600" href="https://www.linkedin.com/in/motasim-emad-8b49011925">
+                        <a class="flex items-center mx-2 text-gray-200 hover:text-indigo-600" href="https://www.linkedin.com/in/motasim-emad-8b4901192/">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 sm:h-6 sm:w-6 fill-current" viewBox="0 0 24 24">
                             <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
                         </svg>
@@ -45,7 +45,7 @@
                     </div>
                         
                     <div class="flex items-center mt-6">
-                        <a class="bg-gray-700 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-500 hover:text-gray-200" href="https://drive.google.com/file/d/12A6eyRdgEo5oyWXNPJIOCDcm4sX8wLNi/view?usp=sharing">
+                        <a class="bg-gray-700 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-500 hover:text-gray-200" href="https://drive.google.com/file/d/1EiDL-zoquJNKQEqq4Np3CSLSwQVC4H6a/view?usp=sharing">
                             <span>Discover CV</span>
 
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3 h-6 w-6 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">
