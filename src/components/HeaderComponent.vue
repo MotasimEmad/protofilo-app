@@ -45,7 +45,7 @@
                     </div>
                         
                     <div class="flex items-center mt-6">
-                        <a class="bg-gray-700 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-500 hover:text-gray-200" href="https://drive.google.com/file/d/1EiDL-zoquJNKQEqq4Np3CSLSwQVC4H6a/view?usp=sharing">
+                        <a target="_blank" class="bg-gray-700 py-2 px-4 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-500 hover:text-gray-200" href="https://drive.google.com/file/d/1IIk0qBBAObBYG6dLT8UiD3KMBcAzMKRe/view?usp=sharing">
                             <span>Discover CV</span>
 
                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3 h-6 w-6 animate-bounce" fill="none" viewBox="0 0 24 24" stroke="currentColor">

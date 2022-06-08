@@ -12,6 +12,27 @@
       <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         <div class="flex flex-col container">
           <div class="overflow-hidden shadow-md rounded-lg w-full h-56">
+            <img src="../assets/images/projects/ads.png" class="image bg-cover" />
+          </div>
+          <div class="overlay">
+            <div class="text flex flex-col">
+              <p>
+                Register and get an easy and simple landing page specific to your business. 
+                Use it to show your services....
+                Build with <span class="font-bold">Laravel.</span>
+              </p>
+              <a
+                class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
+                href="https://www.cssix.com"
+                target="_blank" 
+              >
+                Visit
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="flex flex-col container">
+          <div class="overflow-hidden shadow-md rounded-lg w-full h-56">
             <img src="../assets/images/projects/movies.png" class="image" />
           </div>
           <div class="overlay">
@@ -23,6 +44,7 @@
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
                 href="https://movies-website.herokuapp.com"
+                target="_blank"
               >
                 Visit
               </a>
@@ -46,6 +68,7 @@
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
                 href="https://sudev-website.herokuapp.com"
+                target="_blank"
               >
                 Visit
               </a>
@@ -80,6 +103,7 @@
               <a
                 class="mt-2 bg-transparent border border-gray-400 py-2 font-semibold rounded-full text-white hover:bg-gray-700 hover:text-gray-200"
                 href="https://protofilo-template.herokuapp.com"
+                target="_blank"
               >
                 Visit
               </a>
@@ -120,6 +144,7 @@
         <a
           class="bg-gray-900 py-4 px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-700 hover:text-gray-200"
           href="https://github.com/MotasimEmad"
+          target="_blank"
         >
           <span>View More On Github</span>
 
