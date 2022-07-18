@@ -1,5 +1,5 @@
 <template>
-    <section class="wrapper h-96 md:min-h-screen bg-blend-normal" style="background-image: url('https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80')">
+    <section class="wrapper h-auto md:min-h-screen" style="background-repeat: no-repeat; background-size: cover; background-image: url('https://images.unsplash.com/photo-1635830625698-3b9bd74671ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80')">
         <header>
             <div class="flex flex-col md:flex-row items-center justify-center py-8 px-8 lg:py-24 lg:px-24">
                 <div class="hidden md:block md:w-1/2 text-center">
