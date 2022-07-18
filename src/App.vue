@@ -1,17 +1,17 @@
 <template>
   <div id="app" class="font-Quicksand">
     <header-component></header-component>
-    <about-component></about-component>
     <service-component></service-component>
     <skill-component></skill-component>
     <project-component></project-component>
+    <experence-component></experence-component>
     <footer-component></footer-component>
   </div>
 </template>
 
 <script>
 import HeaderComponent from './components/HeaderComponent.vue'
-import AboutComponent from './components/AboutComponent.vue'
+import ExperenceComponent from './components/ExperenceComponent.vue'
 import ServiceComponent from './components/ServiceComponent.vue'
 import SkillComponent from './components/SkillComponent.vue'
 import ProjectComponent from './components/ProjectComponent.vue'
@@ -21,7 +21,7 @@ export default {
   name: 'App',
   components: {
     HeaderComponent,
-    AboutComponent,
+    ExperenceComponent,
     ServiceComponent,
     SkillComponent,
     ProjectComponent,

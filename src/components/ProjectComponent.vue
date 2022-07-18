@@ -1,15 +1,16 @@
 <template>
   <section
-    class="flex flex-col py-8 px-8 md:py-12 md:px-12 lg:py-24 lg:px-14 bg-gray-200 text-center"
+    class="flex flex-col py-8 px-8 md:py-12 md:px-12 lg:py-24 lg:px-14 bg-indigo-100 text-center font-Ubuntu"
   >
-    <h1
-      class="mt-4 text-lg md:text-xl lg:text-3xl text-gray-800 font-bold uppercase"
-    >
-      Portfolio 
-    </h1>
+    <h1 class="text-center text-2xl lg:text-5xl text-gray-800 font-bold">Portfolio</h1>
+    <div class="flex justify-center mx-auto mt-2 lg:mt-6">
+        <span class="inline-block w-40 h-1 lg:h-2 bg-indigo-400 rounded-full"></span>
+        <span class="inline-block w-3 h-1 lg:h-2 mx-1 bg-indigo-400 rounded-full"></span>
+        <span class="inline-block w-1 h-1 lg:h-2 bg-indigo-400 rounded-full"></span>
+    </div>
 
     <div class="flex flex-col">
-      <div class="mt-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="mt-10 grid grid-cols-1 md:grid-cols-2 gap-8">
         <div class="flex flex-col container">
           <div class="overflow-hidden shadow-md rounded-lg w-full h-56">
             <img src="../assets/images/projects/ads.png" class="image bg-cover" />
@@ -140,28 +141,14 @@
         </div>
       </div>
 
-      <div class="flex items-center justify-center mt-12">
-        <a
-          class="bg-gray-900 py-4 px-8 font-semibold rounded-lg flex items-center text-white hover:bg-gray-700 hover:text-gray-200"
-          href="https://github.com/MotasimEmad"
-          target="_blank"
-        >
-          <span>View More On Github</span>
+      <div class="flex items-center mt-12 justify-center">
+          <a target="_blank" class="bg-indigo-400 py-2 px-8 lg:py-4 lg:px-8 font-semibold rounded-lg flex items-center text-white hover:bg-indigo-500 hover:text-gray-200" href="https://github.com/MotasimEmad">
+              <span>View More On GitHub</span>
 
-          <svg
-            class="h-5 w-5 ml-1"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
-              d="M17 8l4 4m0 0l-4 4m4-4H3"
-            />
-          </svg>
-        </a>
+              <svg class="ml-3 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-8.707l-3-3a1 1 0 00-1.414 1.414L10.586 9H7a1 1 0 100 2h3.586l-1.293 1.293a1 1 0 101.414 1.414l3-3a1 1 0 000-1.414z" clip-rule="evenodd"></path>
+              </svg>
+          </a>
       </div>
     </div>
   </section>
@@ -194,6 +181,7 @@ export default {
   width: 100%;
   height: 0;
   transition: 0.5s ease;
+  font-family: 'Ubuntu';
 }
 
 .container:hover .overlay {
